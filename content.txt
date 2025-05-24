@@ -1,0 +1,144 @@
+content
+
+## 🔵 `Home` Section
+
+**Name:** Ameya Wani
+**Title:** Interior Designer | Team Lead
+**Tagline:**
+
+> "Designing dynamic, functional, and future-ready commercial spaces for top-tier clients."
+
+**Short Bio:**
+
+> "I’m a passionate design professional with a strong foundation in interior planning, detailing, and execution. As a Team Lead at Concept Consilio (formerly CASPL), I guide large-scale projects from concept to completion, delivering functional, aesthetic, and innovative spaces across India."
+
+---
+
+## 🟢 `About` Section
+
+```markdown
+### About Me
+
+With over 9 years of experience in interior design, I specialize in commercial workplace solutions that balance innovation, functionality, and aesthetics. Currently leading project teams at Concept Consilio India Pvt. Ltd., I focus on transforming client requirements into seamless, efficient, and inspiring environments. Known for strong communication, planning, and technical skills, I’m dedicated to continuous learning and high-impact collaboration.
+```
+
+**Contact Info:**
+
+* 📍 Shivaji Park, Mumbai – 400016
+* 📞 +91 98705 76945
+* 📧 [ameya.square@gmail.com](mailto:ameya.square@gmail.com)
+
+---
+
+## 🟣 `Skills` Section
+
+### **Technical Skills**
+
+* AutoCAD
+* SketchUp
+* Photoshop
+* MS Office
+
+### **Professional Attributes**
+
+* Space Planning & Layout Development
+* Detailed Drawings & Execution
+* Client Communication & Coordination
+* Team Leadership & Time Management
+* Presentation & Design Visualization
+* Site Supervision & As-Built Documentation
+
+---
+
+## 🟡 `Experience` Section
+
+### **Concept Consilio India Pvt. Ltd. (formerly Concept CASPL)**
+
+📍 Mumbai
+🕒 May 2011 – Present
+
+#### **Team Lead** (Mar 2023 – Present)
+
+#### **Asst. Team Lead** (Apr 2017 – Mar 2023)
+
+#### **Senior Interior Designer** (Apr 2013 – Mar 2017)
+
+#### **Interior Designer** (May 2011 – Mar 2013)
+
+**Key Responsibilities:**
+
+* Concept development, 3D look and feel presentations.
+* Client discussions, requirement translation.
+* Coordinating across departments and consultants.
+* Preparing working drawings and service layouts.
+* Site supervision, weekly meetings, and final handover documentation.
+
+---
+
+## 🔴 `Projects` Section (Add image carousels per project)
+
+Each project should have:
+
+* Name
+* Client
+* Area
+* Location
+* (Optionally) Carousel of project images
+
+### Example Entries:
+
+```json
+{
+  "title": "HSBC Commercial Office",
+  "client": "HSBC",
+  "area": "5,00,000 Sq.Ft",
+  "location": "Pune",
+  "year": "—",
+  "images": ["hsbc1.jpg", "hsbc2.jpg", "hsbc3.jpg"]
+}
+```
+
+#### Full Project List to Use:
+
+| Project                | Location    | Area           |
+| ---------------------- | ----------- | -------------- |
+| HSBC                   | Pune        | 5,00,000 Sq.Ft |
+| CITI HQ                | BKC, Mumbai | 3,00,000 Sq.Ft |
+| CITI                   | Chennai     | 70,000 Sq.Ft   |
+| Apple                  | Mumbai      | 15,000 Sq.Ft   |
+| Rabo Bank              | Mumbai      | 20,000 Sq.Ft   |
+| Inautix                | Pune        | 40,000 Sq.Ft   |
+| TATA AIG               | Mumbai      | 1,50,000 Sq.Ft |
+| Shoppers Stop Mall     | Delhi       | 5,00,000 Sq.Ft |
+| Siemens Healthineers   | Bangalore   | 3,50,000 Sq.Ft |
+| British Petroleum (BP) | Pune        | 1,00,000 Sq.Ft |
+| Google                 | Delhi       | 2,00,000 Sq.Ft |
+| Morgan Stanley         | Mumbai      | 90,000 Sq.Ft   |
+| Mahindra Finance       | Mumbai      | 95,000 Sq.Ft   |
+| Koch                   | Navi Mumbai | 35,000 Sq.Ft   |
+| Citi (on going)        | Chennai     | 2,25,000 Sq.Ft |
+
+---
+
+## 🟤 `Education` Section
+
+```markdown
+### Education
+
+- **Diploma in Interior Design** – 2009  
+- Higher Secondary Certificate – 2004  
+- Secondary School Certificate – 2002
+```
+
+---
+
+## ⚫ `Contact` Section
+
+* **Name**: Ameya Wani
+* **Email**: [ameya.square@gmail.com](mailto:ameya.square@gmail.com)
+* **Phone**: +91 98705 76945
+* **Location**: Shivaji Park, Mumbai – 400016
+
+---
+
+Let me know if you want this in a structured JSON or JS format to directly plug into your template, or if you'd like me to prepare the `data.js` style structure used in that site.
